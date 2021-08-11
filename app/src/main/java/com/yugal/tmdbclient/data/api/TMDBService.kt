@@ -1,9 +1,9 @@
 package com.yugal.tmdbclient.data.api
 
 
-import com.yugal.tmdbclient.data.ArtistList
-import com.yugal.tmdbclient.data.MovieList
-import com.yugal.tmdbclient.data.TvShowList
+import com.yugal.tmdbclient.data.model.artist.ArtistList
+import com.yugal.tmdbclient.data.model.movie.MovieList
+import com.yugal.tmdbclient.data.model.tvshow.TvShowList
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query

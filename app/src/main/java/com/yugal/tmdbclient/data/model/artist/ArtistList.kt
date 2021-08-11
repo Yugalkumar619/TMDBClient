@@ -1,6 +1,6 @@
-package com.yugal.tmdbclient.data
+package com.yugal.tmdbclient.data.model.artist
 import com.google.gson.annotations.SerializedName
-import com.yugal.tmdbclient.data.Artist
+import com.yugal.tmdbclient.data.model.artist.Artist
 
 data class ArtistList(
     @SerializedName("results")

@@ -1,6 +1,6 @@
-package com.yugal.tmdbclient.data
+package com.yugal.tmdbclient.data.model.tvshow
 import com.google.gson.annotations.SerializedName
-import com.yugal.tmdbclient.data.TvShow
+import com.yugal.tmdbclient.data.model.tvshow.TvShow
 
 data class TvShowList(
     @SerializedName("results")
