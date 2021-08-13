@@ -1,8 +1,6 @@
 package com.yugal.tmdbclient.data.repository.tvshow
 
 import android.util.Log
-import com.yugal.tmdbclient.data.model.movie.Movie
-import com.yugal.tmdbclient.data.model.movie.MovieList
 import com.yugal.tmdbclient.data.model.tvshow.TvShow
 import com.yugal.tmdbclient.data.model.tvshow.TvShowList
 import com.yugal.tmdbclient.data.repository.tvshow.datasource.TvShowCacheDataSource
